@@ -2,7 +2,6 @@
 <h1 align="center">Hi there, I'm <span style="color:#0078D7"> Himanshu Narwal</span> 👋</h1>
 <h3 align="center">🚀 First-Year Engineering Student | 💡 Learner | 🛠️ Builder | 🌱 Growing in Tech</h3>
 
----
 
 ### About Me
 
@@ -10,7 +9,6 @@
 - 🌱 Currently learning: **Python** and  **C++**
 - 🛠️ Working on: **Basic ML projects**
 
----
 
 ### Tech Stack
 <p align="center">
@@ -21,7 +19,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
 
----
 
 ### 📬 Contact Me
 
