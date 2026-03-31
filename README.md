@@ -5,7 +5,7 @@
 
 ### About Me
 
-- 🎓 First-year student at **Manav Rachna International Institute of Research And Studies**
+- 🎓 Second-year student at **Manav Rachna International Institute of Research And Studies**
 - 🌱 Currently learning: **Python** and  **C++**
 - 🛠️ Working on: **Basic ML projects**
 
